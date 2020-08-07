@@ -1,5 +1,7 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 🔥 Firebase Support
-    url: https://firebase.google.com/support/
-    about: If you have an urgent issue with your app, please contact support.
+  - name: 🥶 Repository Frozen
+    url: https://github.com/github-sandbox/pulls
+    about: \
+      Development on this repository is frozen which means we are no longer accepting new issues. 
+      We happily accept pull requests to fix existing issues though!
