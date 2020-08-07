@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: 🥶 Repository Frozen
     url: https://github.com/github-sandbox/pulls
-    about: Development on this repository is frozen which means we are no longer accepting new issues. If you want to help us fix an existing issue, send a Pull Request!
+    about: This repository is no longer accepting new issues. If you want to help us fix an existing issue, send a Pull Request!
